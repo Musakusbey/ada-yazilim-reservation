@@ -26,6 +26,14 @@ Trenlerde yapılan **online rezervasyonlarda** bazı kurallar vardır:
 - **.NET 8 Web API (Minimal API)**
 - **Swagger (OpenAPI)** → Test arayüzü için
 - **Git & GitHub** → Versiyon kontrolü
+- **Render** → Deploy (canlıya alma)
+
+---
+
+## 🚀 Canlı Linkler
+
+- **📂 GitHub Repository:** [GitHub - ada-yazilim-reservation](https://github.com/Musakusbey/ada-yazilim-reservation)
+- **🌍 Canlı API (Swagger UI):** [Swagger - Render](https://ada-yazilim-reservation.onrender.com/swagger/index.html)
 
 ---
 
